@@ -71,13 +71,13 @@
 				<h2 class="title"><span>CHƯƠNG TRÌNH THỰC TẬP HƯỞNG LƯƠNG TẠI MỸ</span></h2>
 			</div>
 			<div class="col-lg-6">
-				<div class="content" data-aos="fade-right">
+				<div class="content" data-aos="flip-right">
 					<h4>Internship - Thực tập sinh</h4>
 					<p>Dành cho những bạn đang học đại học, cao đẳng, trung cấp hoặc tốt nghiệp không quá 12 tháng với các chuyên ngành liên quan đến chuyên ngành xin thực tập</p>
 				</div>
 			</div>
 			<div class="col-lg-6">
-				<div class="content" data-aos="fade-left">
+				<div class="content" data-aos="flip-left">
 					<h4>Trainee - Tu nghiệp sinh</h4>
 					<p>Dành cho ứng viên đã tốt nghiệp quá 12 tháng hoặc ứng viên có bằng cấp chuyên ngành khác (không liên quan đến ngành đang định thực tập), song lại có ít nhất 5 năm kinh nghiệm thực tập thực tế liên quan đến ngành đang có ý định xin thực tập</p>
 				</div>
