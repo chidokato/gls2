@@ -1,0 +1,55 @@
+@media(max-width:820px){
+	.section23489234 .iteam{ margin: 20px }
+	.section23489234 .iteam img.icon{ display: none; }
+	.section312311 .background{ padding: 50px 45px; }
+	.section31231 .text {border-radius: 20px 20px 0px 0px;}
+	.section31231 .form {border-radius: 0px 0px 20px 20px;}
+	.main_hotel .text_name{ height: 340px; overflow: auto; }
+	.main_lodging{ padding: 40px 0px !important; }
+	.section23489234 .iteam{ margin: 20px }
+	.section312311 .container{ padding: 0px }
+	.section57 ul li {margin: 11px 0px;}
+	.section57 ul li img {height: 23px;width: 23px;}
+	
+}
+
+@media(max-width:414px){
+	.header_banner .owl-carousel img{ height: 170px }
+	.main_hotel{ padding: 30px 0px !important }
+	.section312311 .background { padding: 20px 25px;}
+	.section31231 .text h3{ font-size: 1.5rem }
+	.section31231 .form h4 {font-size: 1.4rem;}
+	.section312312 h3{ font-size: 1.5rem }
+	.section56 .owlCarousel123 .item .name {font-size: 1rem;}
+	.section56 .owlCarousel123 .item {margin: 5px;}
+	.title1{ font-size: 1.4rem; }
+	.section157 ul li {margin: 12px 0px !important;}
+	.section57 ul li {font-size: 1rem;}
+	.section56 {margin-top: -10px;}
+	.video-bg{ height:40vh }
+	.title {font-size: 1.3rem;}
+	.title span:after { height: 2px; top: 120%;}
+	.main_hotel p{ text-align:justify; }
+	.anh p{ font-size:1.1rem }
+	.sumenh .a1211{ flex-direction: column; }
+	.sumenh .a1211 .iteam_row{ width:100%; margin-bottom:20px }
+	.sumenh .row{ flex-direction: column-reverse; }
+	.giatricotloi .img img{ height:auto; }
+	.chuongtrinhhoc:before{ width:100%; height:35%; }
+	.chuongtrinhhoc .img img{ width:100%; margin-bottom:20px }
+	.anh .img img{ height:auto; }
+	.header_nav.active #cssmenu > ul > li > a{ color:#fff }
+	
+	/*	trang mỹ*/
+	.row-2 .img img{ height:300px; border-radius: 50px 10px 50px 10px; }
+	.row-2 .col-lg-4 .content{ position:initial; margin-top:15px }
+	.row-3 .list_item .iteam h4{ font-size:1rem; margin-bottom:0 }
+	.row-4 .content{ margin-bottom:20px }
+	.row-5 .iteam h4{ text-align:left; }
+	.row-5 .card-header h5 a{ margin-top:13px }
+	.show{ background:none; position:relative; border:none }
+	.row-8 img{ height:300px }
+
+
+	
+}
