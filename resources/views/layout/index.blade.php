@@ -113,7 +113,7 @@
     <script src="frontend/files/cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
     <script src="frontend/plugins/daterangepicker/daterangepicker.js"></script>
     
-    <script src="frontend/content/Js/main.js"></script>
+    <script src="frontend/content/Js/main1.js"></script>
 
     <script src="frontend/content/Js/menu.js"></script>
     <script src="frontend/content/Js/header.js"></script>
