@@ -305,6 +305,9 @@ $('.lanhdao-tintuc').owlCarousel({
     nav: false,
     dots: true,
     responsiveClass: false,
+    autoplay: true, // Tự động phát
+    autoplayTimeout: 2000, // Thời gian hiển thị cho mỗi slide (3 giây)
+    autoplayHoverPause: true, // Dừng tự động phát khi di chuột vào slider
     navText: false,
     responsive:{
         0:{
@@ -326,6 +329,9 @@ $('.5row-slider').owlCarousel({
     dots: true,
     responsiveClass: false,
     navText: false,
+    autoplay: true, // Tự động phát
+    autoplayTimeout: 2000, // Thời gian hiển thị cho mỗi slide (3 giây)
+    autoplayHoverPause: true, // Dừng tự động phát khi di chuột vào slider
     responsive:{
         0:{
             items:2
@@ -345,6 +351,9 @@ $('.img-slider').owlCarousel({
     nav: false,
     dots: true,
     responsiveClass: false,
+    autoplay: true, // Tự động phát
+    autoplayTimeout: 2000, // Thời gian hiển thị cho mỗi slide (3 giây)
+    autoplayHoverPause: true, // Dừng tự động phát khi di chuột vào slider
     navText: false,
     responsive:{
         0:{
