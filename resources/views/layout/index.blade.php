@@ -55,7 +55,7 @@
     <link rel="stylesheet" href="{{asset('')}}frontend/files/plugins/menu.css">
     <link rel="stylesheet" href="{{asset('')}}frontend/files/plugins/header.css">
     @yield('css')
-    <link rel="stylesheet" href="{{asset('')}}frontend/files/plugins/responsive.css">
+    <link rel="stylesheet" href="{{asset('')}}frontend/files/plugins/responsive1.css">
 
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 </head>
