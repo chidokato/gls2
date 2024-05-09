@@ -54,7 +54,7 @@ h2{ text-align:center; font-size:1.5rem; color:var(--main-color); font-weight:bo
 .row-5 .img img{ height:100%; object-fit:cover; }
 
 .row-6 h2{ margin-bottom:20px }
-.row-6 .img{ text-align:center; }
+.row-6 .img{ text-align:center; width:450px; margin:auto; }
 
 .row-7 h2{ margin-bottom:20px }
 .row-7 .card{ border:none; background: none; }

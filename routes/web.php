@@ -84,7 +84,7 @@ Route::middleware(['auth'])->group(function () {
 
 // home
 Route::get('/', [HomeController::class, 'index'])->name('home');
-// Route::get('gioi-thieu', [HomeController::class, 'about'])->name('about');
+Route::get('dangky', [HomeController::class, 'dangky'])->name('dangky');
 // Route::get('lien-he', [HomeController::class, 'contact'])->name('contact');
 Route::get('{slug}', [HomeController::class, 'category']);
 Route::get('{catslug}/{slug}', [HomeController::class, 'post']);

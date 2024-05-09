@@ -23,11 +23,13 @@
                         </div>
                         <div class="col-lg-6 col-md-12 form">
                             <h4>ĐĂNG KÝ NGAY HÔM NAY ĐỂ NHẬN TƯ VẤN MIỄN PHÍ!</h4>
-                            <form action="" method="POST">
-                                <input required="" type="text" class="form-control" name="" placeholder="Họ & Tên *">
-                                <input required="" type="text" class="form-control" name="" placeholder="Số điện thoại *">
-                                <input type="text" class="form-control" name="" placeholder="Email">
-                                <input type="text" class="form-control" name="" placeholder="Địa chỉ">
+                            <form action="dangky" method="post">
+                                @csrf
+                                @method('HEAD')
+                                <input required="" type="text" class="form-control" name="name" placeholder="Họ & Tên *">
+                                <input required="" type="text" class="form-control" name="phone" placeholder="Số điện thoại *">
+                                <input type="text" class="form-control" name="email" placeholder="Email">
+                                <input type="text" class="form-control" name="address" placeholder="Địa chỉ">
                                 <button class="form-control" type="submit">TƯ VẤN NGAY</button>
                             </form>
                         </div>

@@ -2,7 +2,7 @@
 	<img src="frontend/imgs/style/cover-my.png">
 </div>
 
-<div class="row-2">
+<div class="row-2" data-aos="fade-up">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-8">
@@ -24,7 +24,7 @@
 	</div>
 </div>
 
-<div class="row-3 f8f8f8">
+<div class="row-3 f8f8f8" data-aos="fade-up">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
@@ -64,7 +64,7 @@
 	</div>
 </div>
 
-<div class="row-4">
+<div class="row-4" data-aos="fade-up">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
@@ -86,7 +86,7 @@
 	</div>
 </div>
 
-<div class="row-5 f8f8f8">
+<div class="row-5 f8f8f8" data-aos="fade-up">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
@@ -226,7 +226,7 @@
 	</div>
 </div>
 
-<div class="row-6">
+<div class="row-6" data-aos="fade-up">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
@@ -239,7 +239,7 @@
 	</div>
 </div>
 
-<div class="row-7 f8f8f8">
+<div class="row-7 f8f8f8" data-aos="fade-up">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
@@ -456,7 +456,7 @@
 	</div>
 </div>
 
-<div class="row-8">
+<div class="row-8" data-aos="fade-up">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
@@ -493,7 +493,7 @@
 	</div>
 </div>
 
-<div class="row-9 f8f8f8">
+<div class="row-9 f8f8f8" data-aos="fade-up">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
