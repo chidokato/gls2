@@ -30,7 +30,7 @@
                 <div class="col-lg-12">
                     <h1 class="title"><span>CÔNG TY CỔ PHẦN GLS EDUCATION</span></h1>
                     <div>
-                        <p>Công ty cổ phần GLS Education là công ty con trực thuộc Tập đoàn GSG (Green Solution Group). Trải qua nhiều năm hình thành và phát triển, song hành cùng tập đoàn GSG, GLS Education tự hào là đơn vị uy tín trong lĩnh vực du học nghề tại các quốc gia hàng đầu trên thế giới.</p>
+                        <p>Công ty cổ phần GLS Education là công ty con trực thuộc Tập đoàn GSG (Green Solution Group). Trải qua nhiều năm hình thành và phát triển, song hành cùng tập đoàn GSG, GLS Education tự hào là đơn vị uy tín trong lĩnh vực du học nghề - xuất khẩu lao động tại các quốc gia hàng đầu trên thế giới.</p>
                         <p>Sở hữu mạng lưới đối tác chiến lược rộng khắp toàn cầu cùng đội ngũ cố vấn làm việc với tinh thần “ Chuyên nghiệp - Trách nhiệm - Tâm huyết”, chúng tôi tin rằng có thể mang đến những cơ hội tuyệt vời nhất cho học viên trong việc chọn lựa chương trình học phù hợp và đạt được mục tiêu của mình.</p>
                     </div>
                     <div class="logo-home">
@@ -129,7 +129,7 @@
                     <div class="iteam_row">
                         <img src="data/home/Group-1000005846.svg">
                         <div>
-                            Trở thành điểm đến hàng đầu cho những người muốn khám phá và phát triển sự nghiệp của mình thông qua du học nghề
+                            Trở thành điểm đến hàng đầu cho những người muốn khám phá và phát triển sự nghiệp của mình
                         </div>
                     </div>
                     <div class="iteam_row">
