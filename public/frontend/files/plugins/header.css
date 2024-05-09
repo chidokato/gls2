@@ -5,7 +5,7 @@
 /*#cssmenu:after,#cssmenu > ul:after{content:".";display:block;clear:both;visibility:hidden;line-height:0;height:0}*/
 #cssmenu #head-mobile{display:none}
 #cssmenu > ul > li{float:left}
-#cssmenu > ul > li > a{padding:22px 13px;font-size:14px;letter-spacing:1px;text-decoration:none;color:#fff;font-weight:700; text-transform: uppercase;}
+#cssmenu > ul > li > a{padding:22px 13px;font-size:12px;letter-spacing:1px;text-decoration:none;color:#fff;font-weight:700; text-transform: uppercase;}
 #cssmenu > ul > li:hover > a,#cssmenu ul li.active a{
 /*    border-bottom: 2px solid;*/
 }

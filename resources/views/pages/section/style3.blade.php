@@ -226,7 +226,7 @@
 	</div>
 </div>
 
-<div class="row-6" data-aos="fade-up">
+<div class="row-6" data-aos="zoom-in">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
