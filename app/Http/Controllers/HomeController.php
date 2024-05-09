@@ -157,6 +157,8 @@ class HomeController extends Controller
 
     public function dangky(Request $request)
     {
+
+
         
     }
 }
