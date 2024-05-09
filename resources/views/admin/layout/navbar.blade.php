@@ -32,7 +32,7 @@
     <li class="nav-item">
         <a class="nav-link" href="{{route('slider.index')}}"><i class="fas fa-fw fa-chart-area"></i><span>Slider</span></a>
     </li> 
-    <li class="nav-item">
+    <!-- <li class="nav-item">
         <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#giaydep"
             aria-expanded="true" aria-controls="giaydep">
             <i class="fas fa-fw fa-wrench"></i>
@@ -45,11 +45,11 @@
                 <a class="collapse-item" href="admin/section/gioithieu">Cấu hình nội dung</a>
             </div>
         </div>
-    </li>
-
-    <!-- <li class="nav-item">
-        <a class="nav-link" href="admin/messages/list"><i class="fas fa-fw fa-chart-area"></i><span>Messages</span></a>
     </li> -->
+
+    <li class="nav-item">
+        <a class="nav-link" href="{{route('setting.index')}}"><i class="fas fa-fw fa-chart-area"></i><span>Cấu hình</span></a>
+    </li>
     
     <!-- <li class="nav-item">
         <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#giaydep"

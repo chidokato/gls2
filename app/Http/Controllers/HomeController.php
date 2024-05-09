@@ -15,6 +15,8 @@ use App\Models\SectionTranslation;
 use App\Models\SettingTranslation;
 use App\Models\SliderTranslation;
 
+use Mail;
+
 // $locale = App::currentLocale();
 
 class HomeController extends Controller
@@ -158,7 +160,5 @@ class HomeController extends Controller
     public function dangky(Request $request)
     {
 
-
-        
     }
 }
